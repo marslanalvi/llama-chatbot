@@ -1,2 +1,4 @@
 streamlit
-langchain_community
+ollama
+langchain
+requests
